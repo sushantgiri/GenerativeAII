@@ -7,3 +7,7 @@ Group Members:
 - Jaspreet Kaur (C0861116)
 - Vijay Seelam (C08573219)
 - Sushant Giri (C0861112)
+
+## Conclusion
+
+In this project, we successfully fetched movie overviews from the TMDB API, performed exploratory data analysis (EDA), and built a language model to generate movie overviews. The WordCloud visualization provided insights into the most common words used in the overviews. This project showcases the potential of language models in generating creative text based on existing data.
